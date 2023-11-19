@@ -44,7 +44,7 @@ To get started with Comic Mania on your local machine, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/comic-mania.git
+    git clone https://github.com/akshat0313/Dashtoon.git
     ```
 
 2. **Navigate to Project Directory:**
@@ -69,14 +69,14 @@ To get started with Comic Mania on your local machine, follow these steps:
 
 ## Deployment
 
-The application is live on Vercel, providing a seamless online experience. You can access the deployed version at [Comic Mania](https://comic-mania.vercel.app/).
+The application is live on Vercel, providing a seamless online experience. You can access the deployed version at [Comic Mania](https://dashtoon-five.vercel.app/).
 
 ## Contributing
 
 Feel free to contribute to Comic Mania! If you encounter any bugs, have feature requests, or want to submit improvements, follow these steps:
 
 1. **Submit Bug Reports and Feature Requests:**
-   - Use the [Issues](https://github.com/your-username/comic-mania/issues) section to report bugs or suggest new features.
+   - Use the [Issues](https://github.com/akshat0313/Dashtoon/issues) section to report bugs or suggest new features.
 
 2. **Pull Requests:**
    - Fork the repository.
@@ -84,7 +84,3 @@ Feel free to contribute to Comic Mania! If you encounter any bugs, have feature 
    - Make your changes and submit a pull request.
 
 Your contributions are highly valued!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
