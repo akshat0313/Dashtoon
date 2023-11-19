@@ -49,7 +49,7 @@ To get started with Comic Mania on your local machine, follow these steps:
 
 2. **Navigate to Project Directory:**
     ```bash
-    cd comic-mania
+    cd Dashtoon
     ```
 
 3. **Install Dependencies:**
