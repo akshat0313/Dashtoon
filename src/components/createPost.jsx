@@ -40,12 +40,8 @@ function ImageComponent() {
     };
 
     const handlePostImages = () => {
-        var resultUrls1 = ["https://source.unsplash.com/3tYZjGSBwbk","https://source.unsplash.com/3tYZjGSBwbk","https://source.unsplash.com/3tYZjGSBwbk","https://source.unsplash.com/3tYZjGSBwbk","https://source.unsplash.com/3tYZjGSBwbk","https://source.unsplash.com/3tYZjGSBwbk","https://source.unsplash.com/3tYZjGSBwbk","https://source.unsplash.com/3tYZjGSBwbk","https://source.unsplash.com/3tYZjGSBwbk","https://source.unsplash.com/3tYZjGSBwbk"]
-        setResultUrls(resultUrls1);
         if (resultUrls.every(url => url !== null)) {
-            
-            addComic(resultUrls);
-            addComic(resultUrls);
+
             addComic(resultUrls);
             navigate('/');
         } else {
